@@ -1,5 +1,9 @@
 # Release Notes
 
+## v2.0.9 (2020-05-03)
+
+- Style fixes for mobile view
+
 ## v2.0.8 (2020-05-02)
 
 - Added scroll for php code examples on mobile screen
